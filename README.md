@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Coder-Vidhi
+- 👋 Hi, I’m Vidhi
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
